@@ -15,7 +15,7 @@ class LLMEngine:
     
     def _setup_provider(self):
         if self.provider == "groq":
-            self.api_key = os.getenv("GROQ_API_KEY") or "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"
+            self.api_key = os.getenv("GROQ_API_KEY")
             self.model = "llama-3.3-70b-versatile"
             self.api_url = "https://api.groq.com/openai/v1/chat/completions"
         elif self.provider == "openai":
