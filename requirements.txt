@@ -1,0 +1,23 @@
+# FastAPI Backend
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+
+# AI/ML Models
+sentence-transformers==2.2.2
+torch==2.1.0
+transformers==4.35.0
+
+# Vector Operations
+scikit-learn==1.3.2
+numpy==1.24.3
+
+# HTTP Requests
+requests==2.31.0
+
+# Streamlit Frontend
+streamlit==1.28.0
+
+# Utilities
+python-multipart==0.0.6
