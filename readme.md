@@ -1,4 +1,4 @@
-# OmniGrok – AI-Powered Conversational Assistant
+<img width="1760" height="923" alt="Chatbot Intro" src="https://github.com/user-attachments/assets/fce84894-aecb-4d89-a9fc-fedcda70b7c1" /># OmniGrok – AI-Powered Conversational Assistant
 
 Production-grade AI assistant capable of handling business customer support, general queries, and context-aware conversations. Features include:
 
@@ -259,3 +259,7 @@ Interactive API Docs:
 
 Swagger UI: http://localhost:8000/docs
 ReDoc: http://localhost:8000/redoc
+
+📸 Screenshots and Demo video
+![Chatbot UI]
+
