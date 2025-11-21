@@ -261,5 +261,6 @@ Swagger UI: http://localhost:8000/docs
 ReDoc: http://localhost:8000/redoc
 
 📸 Screenshots and Demo video
-![Chatbot UI]
+![Chatbot UI](https://raw.githubusercontent.com/DivyanshTech/OmniAI/main/assets/Chatbot%20Intro.png)
+
 
