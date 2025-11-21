@@ -1,4 +1,3 @@
-<img width="1760" height="923" alt="Chatbot Intro" src="https://github.com/user-attachments/assets/fce84894-aecb-4d89-a9fc-fedcda70b7c1" /># OmniGrok – AI-Powered Conversational Assistant
 
 Production-grade AI assistant capable of handling business customer support, general queries, and context-aware conversations. Features include:
 
@@ -262,5 +261,9 @@ ReDoc: http://localhost:8000/redoc
 
 📸 Screenshots and Demo video
 ![Chatbot UI](https://raw.githubusercontent.com/DivyanshTech/OmniAI/main/assets/Chatbot%20Intro.png)
+![General Question](https://raw.githubusercontent.com/DivyanshTech/OmniAI/main/assets/General%20question.png)
+![How do I Contact Support](https://raw.githubusercontent.com/DivyanshTech/OmniAI/main/assets/How%20do%20i%20Contact%20support.png)
+![Tech Question](https://raw.githubusercontent.com/DivyanshTech/OmniAI/main/assets/Tech%20Question.png)
+[▶ Watch Demo Video](https://raw.githubusercontent.com/DivyanshTech/OmniAI/main/assets/Customer%20Support%2Bgeneral%20purpose%20Chatbot%20-%20Demo.mp4)
 
 
